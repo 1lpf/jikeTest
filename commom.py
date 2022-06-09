@@ -1,3 +1,4 @@
+# Python代码中引入requests库，引入后才可以在你的代码中使用对应的类以及成员函数
 import requests
 class Common(object):
     def __init__(self,url_root):
